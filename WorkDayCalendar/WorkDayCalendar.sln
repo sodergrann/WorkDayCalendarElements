@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkDayCalendar", "WorkDayCalendar.csproj", "{EE9BC4C0-9A21-4207-906E-4A47B61A2F2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWorkDayCalendar", "..\TestWorkDayCalendar\TestWorkDayCalendar.csproj", "{FF06651F-641E-4312-B30A-9768644EFC79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE9BC4C0-9A21-4207-906E-4A47B61A2F2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE9BC4C0-9A21-4207-906E-4A47B61A2F2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE9BC4C0-9A21-4207-906E-4A47B61A2F2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE9BC4C0-9A21-4207-906E-4A47B61A2F2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF06651F-641E-4312-B30A-9768644EFC79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF06651F-641E-4312-B30A-9768644EFC79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF06651F-641E-4312-B30A-9768644EFC79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF06651F-641E-4312-B30A-9768644EFC79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0E04BA1-4909-4D00-99D2-CC0EF99742F4}
+	EndGlobalSection
+EndGlobal
